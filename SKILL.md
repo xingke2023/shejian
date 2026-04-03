@@ -1,6 +1,6 @@
 ---
 name: shejian
-metadata: {"sjtx":{"api_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsInN0b3JlX2lkIjoyLCJuYW1lIjoiRGVtbyBVc2VyIiwiZW1haWwiOiJkZW1vQGV4YW1wbGUuY29tIiwiaXNfYWRtaW4iOmZhbHNlLCJpYXQiOjE3NzUyNDYzMjF9.Ya8bfqtjMMjPPnfdNwOLHXP4M0ydktwV2n7zi3zbe30","base_url":"https://s.xingke888.com"}}
+metadata: {"sjtx":{"api_token":"","base_url":"https://s.xingke888.com"}}
 description: |
   舌尖香港门店AI助手 — 生鲜门店远程管理助手。
   
